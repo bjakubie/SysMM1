@@ -1,0 +1,6 @@
+c:\users\bartek\documents\visual studio 2012\Projects\SysMM1\SysMM1\bin\Debug\SysMM1.exe.config
+C:\Users\Bartek\documents\visual studio 2012\Projects\SysMM1\SysMM1\bin\Debug\SysMM1.exe
+C:\Users\Bartek\documents\visual studio 2012\Projects\SysMM1\SysMM1\bin\Debug\SysMM1.pdb
+C:\Users\Bartek\documents\visual studio 2012\Projects\SysMM1\SysMM1\obj\Debug\SysMM1.csprojResolveAssemblyReference.cache
+C:\Users\Bartek\documents\visual studio 2012\Projects\SysMM1\SysMM1\obj\Debug\SysMM1.exe
+C:\Users\Bartek\documents\visual studio 2012\Projects\SysMM1\SysMM1\obj\Debug\SysMM1.pdb
