@@ -12,12 +12,12 @@ namespace SysMM1
         //double lambda_zrodla;
         Random generator = new Random();
 
-
+        /*
         public double zwrocCzasObslugiObecnegoPakietu(double lambda_zrodla)
         {
             double x = generator.NextDouble();
             return -Math.Log(1.0 - x) / lambda_zrodla;
         }
-
+        */
     }
 }

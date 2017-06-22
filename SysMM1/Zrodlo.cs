@@ -17,7 +17,7 @@ namespace SysMM1
         {
             
             lambda = _lambda;
-            pakiet = new Pakiet(dlugosc_pakietu, lambda);
+            pakiet = new Pakiet(lambda, 0);
         }
 
         public double zwrocCzasNastepnegoPakietu()
